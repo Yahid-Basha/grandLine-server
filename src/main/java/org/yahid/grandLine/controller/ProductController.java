@@ -1,11 +1,10 @@
-package org.yahid.apibuild.controller;
+package org.yahid.grandLine.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import org.yahid.apibuild.model.Product;
-import org.yahid.apibuild.model.ProductInfo;
-import org.yahid.apibuild.repository.ProductRepository;
+import org.yahid.grandLine.model.ProductInfo;
+import org.yahid.grandLine.repository.ProductRepository;
 
 import java.util.List;
 

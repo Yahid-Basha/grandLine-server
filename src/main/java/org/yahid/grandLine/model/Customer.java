@@ -1,4 +1,4 @@
-package org.yahid.apibuild.model;
+package org.yahid.grandLine.model;
 
 import jakarta.persistence.*;
 

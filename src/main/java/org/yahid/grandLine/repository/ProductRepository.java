@@ -1,8 +1,8 @@
-package org.yahid.apibuild.repository;
+package org.yahid.grandLine.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.yahid.apibuild.model.Product;
-import org.yahid.apibuild.model.ProductInfo;
+import org.yahid.grandLine.model.Product;
+import org.yahid.grandLine.model.ProductInfo;
 
 import java.util.List;
 import java.util.Optional;

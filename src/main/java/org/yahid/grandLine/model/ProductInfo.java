@@ -1,4 +1,4 @@
-package org.yahid.apibuild.model;
+package org.yahid.grandLine.model;
 
 import java.math.BigDecimal;
 import java.time.Instant;
@@ -21,6 +21,7 @@ public interface ProductInfo {
 
     CategoryInfo getCategory();
 
+    BigDecimal getStock();
     /**
      * Projection for {@link Category}
      */
